@@ -1,6 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# my-blog
+
 ## Getting Started
+
+Clone tthe repository to your local machine cd into my-blog directory
+
+```bash
+git clone git@github.com:cynthiaawuor/my-blog.git
+cd my-blog
+```
 
 First, run the development server:
 
