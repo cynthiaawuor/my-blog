@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800",
+    "tags": ["AI", "Technology", "Future of Work"],
+    "title": "The Quiet Revolution: How AI Is Reshaping Everyday Work",
+    "author": {
+      "name": "Sarah Nakamura",
+      "avatar": "https://i.pravatar.cc/150?img=47",
+      "role": "Tech Editor"
+    },
+    "datePublished": "2026-06-02",
+    "content": "Artificial intelligence has slipped into our daily routines almost unnoticed. From drafting emails to generating reports, AI tools have become quiet collaborators for millions of knowledge workers around the world.\n\nBut what does this shift actually mean? For most workers, AI isn't replacing jobs — it's changing the texture of them. Tedious tasks that once consumed hours are being compressed into minutes, freeing up time for higher-level thinking, relationship-building, and creative work.\n\nYet the transition isn't frictionless. Workers who haven't adopted AI tools risk falling behind peers who have. Companies are grappling with how to integrate these tools without eroding the skills that make human judgment valuable in the first place.\n\nThe workers thriving in this new landscape share a common trait: they treat AI as a first draft, not a final answer. They bring critical thinking to every AI output, refining, questioning, and improving rather than accepting wholesale.\n\nThe quiet revolution is already here. The question isn't whether to adapt — it's how thoughtfully you'll do it."
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800",
+    "tags": ["Wellness", "Habits", "Behavioral Science"],
+    "title": "Building Habits That Actually Stick: The Science Behind Lasting Change",
+    "author": {
+      "name": "James Oduya",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "role": "Health & Wellness Writer"
+    },
+    "datePublished": "2026-05-28",
+    "content": "Most habit-formation advice is recycled folklore dressed up in productivity language. 'Just do it for 21 days.' 'Stack your habits.' 'Use a habit tracker.' These tips aren't wrong, but they miss the deeper mechanisms that actually drive lasting behavior change.\n\nBehavioral science tells a more nuanced story. Habits form not through willpower or repetition alone, but through the reliable pairing of a cue, a routine, and a reward. When that loop is strong enough, the behavior becomes automatic — it no longer requires conscious decision-making.\n\nThe mistake most people make is treating motivation as the engine of habit. It isn't. Motivation is a spark — useful for getting started, unreliable for sustaining. Environment design is the engine. When your space makes the desired behavior easier than the alternative, habits follow almost naturally.\n\nStart smaller than feels meaningful. Make the cue obvious and unavoidable. Attach the new behavior to something you already do reliably. And critically — design for failure. Every streak will break. The people who build lasting habits aren't those who never miss; they're those who never miss twice."
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800",
+    "tags": ["Finance", "Investing", "Personal Finance"],
+    "title": "Index Funds vs. Stock Picking: Settling the Debate Once and for All",
+    "author": {
+      "name": "Priya Lal",
+      "avatar": "https://i.pravatar.cc/150?img=25",
+      "role": "Financial Journalist"
+    },
+    "datePublished": "2026-05-21",
+    "content": "Decades of data have produced one of the most uncomfortable findings in finance: the overwhelming majority of active fund managers underperform their benchmark index over a 10-year period. When you factor in fees, the gap widens further.\n\nThis isn't a fringe view held by academics. It's the mainstream consensus among institutional investors, Nobel laureates, and increasingly, regulators. And yet stock-picking remains wildly popular — a triumph of narrative over evidence.\n\nWhy do we persist? Partly because the financial industry profits enormously from the illusion of skill. Partly because humans are wired to find patterns, even in noise. And partly because past outperformers are loudly celebrated while past underperformers quietly disappear.\n\nThe index fund case is simple: buy the market, keep costs low, stay the course. It won't make for a compelling dinner party story, but compounded over decades, the performance difference is staggering.\n\nThere's a place for individual stock ownership — education, engagement, controlled speculation with money you can afford to lose. But as a core retirement strategy, the evidence is unambiguous. The boring option wins."
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1569163139599-0f4517e36f51?w=800",
+    "tags": ["Climate", "Science", "Technology", "Environment"],
+    "title": "Carbon Capture Is Back — and This Time the Physics Actually Work",
+    "author": {
+      "name": "Amara Wanjiku",
+      "avatar": "https://i.pravatar.cc/150?img=32",
+      "role": "Climate Correspondent"
+    },
+    "datePublished": "2026-05-14",
+    "content": "For years, carbon capture was climate policy's most embarrassing hope — theoretically sound, practically disastrous, endlessly promised and rarely delivered. Early pilot plants were energy hogs. Costs were prohibitive. Critics called it a distraction funded by fossil fuel interests to delay real emissions cuts.\n\nSomething has changed. A new generation of direct air capture facilities is coming online in Iceland, Kenya, and Texas, powered by renewable electricity and built on engineering lessons from a decade of costly failures. The cost per tonne of CO₂ removed — once above $1,000 — has fallen to under $300 at the most advanced sites, with credible roadmaps to $100 within the decade.\n\nThis doesn't mean carbon capture is a silver bullet. Emissions cuts remain the priority, and no capture technology can substitute for the rapid decarbonization of energy, transport, and industry. But in a world where we've already overshot safe carbon budgets, removal is no longer optional.\n\nThe physics always worked. The engineering is finally catching up. Whether the economics and political will follow fast enough is the question that will define the next decade of climate action."
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800",
+    "tags": ["Writing", "Creativity", "Productivity", "Craft"],
+    "title": "Why Every Writer Needs a 'Junk Drawer' Document",
+    "author": {
+      "name": "Lena Marchetti",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "role": "Senior Editor"
+    },
+    "datePublished": "2026-05-07",
+    "content": "The best ideas rarely arrive fully formed. They show up as fragments — a half-sentence that feels important, a metaphor that doesn't fit anything yet, an argument you can't quite articulate. Most writers discard these fragments or, worse, try to force them into whatever piece they're currently working on, where they don't belong.\n\nA junk drawer document solves this. It's exactly what it sounds like: a single, permanent, low-stakes document where everything goes. No organizing, no categorizing, no deciding whether something is good enough. You paste it in and move on.\n\nThe psychological function is as important as the practical one. The junk drawer removes the pressure of the blank page by giving you a place to look first. It externalizes your creative memory so you don't have to hold fragments in your head while trying to write. And because it's explicitly messy, it lowers the bar for contribution — you'll add things you'd never bother to open a new document for.\n\nOver time, the junk drawer becomes a record of how you think. Patterns emerge. Obsessions surface. You notice which fragments keep recurring, which means they're probably trying to become something real.\n\nWriters who finish things have systems for capturing everything and judging nothing. The junk drawer is the simplest version of that system. Open one today and never delete it."
+  }
+]
