@@ -1,0 +1,57 @@
+import { Flame } from "lucide-react";
+import Link from "next/link";
+
+export default function SignUp() {
+  return (
+    <div className="min-h-screen sm:w-[60%] mx-auto flex items-center justify-center flex-col px-4">
+      <h1 className="flex flex-col items-center text-xl font-bold tracking-tight">
+        <Flame className="text-(--primary-red)" size={32} />
+        <span className="font-2xl font-bold my-4">Creat an account</span>
+      </h1>
+      <form action="">
+        <label htmlFor="email" className="text-sm font-medium ">
+          Email
+        </label>
+        <input
+          type="email"
+          id="email"
+          className="input bg-transparent w-full rounded-md border border-gray-300 mt-1 mb-3 focus-visible:ring-1 focus-visible:ring-(--primary-red)  "
+        />
+
+        <label htmlFor="password" className="text-sm font-medium">
+          Password
+        </label>
+        <input
+          type="password"
+          id="password"
+          className="input bg-transparent w-full rounded-md border border-gray-300 mt-1 mb-3 focus-visible:ring-1 focus-visible:ring-(--primary-red) "
+        />
+        <label htmlFor="confirm-password" className="text-sm font-medium">
+          Confirm Password
+        </label>
+        <input
+          type="password"
+          id="confirm-password"
+          className="input bg-transparent w-full rounded-md border border-gray-300 mt-1 mb-3 focus-visible:ring-1 focus-visible:ring-(--primary-red) "
+        />
+        <button
+          type="submit"
+          className="btn w-full bg-(--primary-red) hover:bg-(--primary-red)/90 border-none shadow-none rounded-md text-sm font-medium mb-3"
+        >
+          Sign Up
+        </button>
+        <button className="btn w-full bg-transparent hover:bg-(--primary-red)/90 transition-colors duration-300 border-gray-300 shadow-none rounded-md text-sm font-medium text-gray-700 mb-8 ">
+          Continue with Google
+        </button>
+      </form>
+      <div className="text-sm">
+        <p className="text-gray-500">
+          Already have an account?{" "}
+          <Link href="/signin" className="text-(--primary-red) font-medium">
+            Sign in
+          </Link>
+        </p>
+      </div>
+    </div>
+  );
+}
